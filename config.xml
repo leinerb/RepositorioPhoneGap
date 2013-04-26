@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "co.albertoangulo.app"
+    version   = "2.6.0">
+
+	<name>Aplicación de Pruebas 1</name>
+
+	<description>
+		Una App de PhoneGap muy simple
+	</description>
+
+	<author href="http://albertoangulo.co" email="albertomarioangulo29@hotmial.com">
+		Alberto Angulo
+	</author>
+
+	<icon src="img/icono_72.png" width="72" height="72" />
+	<icon src="img/icono_48.png" width="48" height="48" />
+	<icon src="img/icono_36.png" width="36" height="36" />
+</widget>
